@@ -1,0 +1,6 @@
+C:\Users\zaidt_000\Desktop\CSC2530_temp\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\zaidt_000\Desktop\CSC2530_temp\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\zaidt_000\Desktop\CSC2530_temp\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\zaidt_000\Desktop\CSC2530_temp\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\zaidt_000\Desktop\CSC2530_temp\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\zaidt_000\Desktop\CSC2530_temp\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
